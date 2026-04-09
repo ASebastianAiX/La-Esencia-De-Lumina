@@ -53,5 +53,8 @@ Vibe coding is a creative AI-assisted development methodology where natural lang
 
 **Apollo Sebastian — APOLLO_AiX**  
 Applied AI Systems Architect  
-[GitHub](https://github.com/ASebastianAiX) · 
-[Instagram](https://instagram.com/apollo_aix)
+## 🔗 Connect
+- 📷 Instagram: [@apollo_aix](https://instagram.com/apollo_aix)
+- 💼 LinkedIn: [https://www.linkedin.com/in/apollosebastian/]
+- 🌐 GitHub Profile: [github.com/ASebastianAiX](https://github.com/ASebastianAiX)
+
